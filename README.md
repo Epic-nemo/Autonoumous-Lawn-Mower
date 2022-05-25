@@ -1,3 +1,3 @@
 # Autonoumous-Lawn-Mower
 
-This is where all of the code for research and an autonmous lawn mower is stored.
+This is where all of the code regarding development of an autonoumous lawn mower.
