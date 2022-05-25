@@ -32,6 +32,6 @@ except ZeroDivisionError as error:
     cX = 0
     cY = 0
 
-cv.imshow('test', img)
+cv.imshow('Image', img)
 
 cv.waitKey(0)
